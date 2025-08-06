@@ -20,13 +20,7 @@ This is a security audit assessment project for a fictional company called Botiu
 
 - Conceptual Frameworks like CSF, PCI DSS, SOC, and the CIA triad for  specific compliance gaps related to the handling of customer credit card data, lack of encryption, improper access controls, data integrity, and the confidentiality of sensitive data.
 - Word processor for writing the final audit report.
-  
-## Steps
 
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Network Diagram*
 
